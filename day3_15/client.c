@@ -7,6 +7,7 @@
 #include <sys/types.h>
 #include <unistd.h>
 
+// 这个是主函数的入口
 int main()
 {
     // 创建socket---用于和服务端进行通信
